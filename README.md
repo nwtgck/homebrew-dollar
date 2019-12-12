@@ -1,4 +1,5 @@
 # homebrew-dollar
+[![Build Status](https://travis-ci.com/nwtgck/homebrew-dollar.svg?branch=master)](https://travis-ci.com/nwtgck/homebrew-dollar)
 
 Brew formula for [$](https://github.com/nwtgck/dollar)
 
